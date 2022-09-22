@@ -8,7 +8,5 @@ public class Atcoder {
         int b=sc.nextInt(),e = sc.nextInt();
         String s = "atcoder";
         System.out.println(s.substring(b-1,e));
-
-
     }
 }
